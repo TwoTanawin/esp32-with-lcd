@@ -1,0 +1,63 @@
+Added Component: Designator=DS?(LCD_NHD-14432WG-BTFH-V#T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NHD-14432WG-BTFH-V%23T/Newhaven+Display+Intl/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Newhaven Display"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NHD-14432WG-BTFH-V#T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/NHD-14432WG-BTFH-V#T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NHD-14432WG-BTFH-V%23T/Newhaven+Display+Intl/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(TRIM_3352T-1-200)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3352T-1-200/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3352T-1-200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3352T-3 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/3352T-1-200/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3352T-1-200/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE_ESP32-DEVKITC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP32-DEVKITC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DS?-1
+Added Pin To Net: NetName=GND Pin=DS?-5
+Added Pin To Net: NetName=GND Pin=DS?-16
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U?-38
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDS?_3 Pin=DS?-3
+Added Pin To Net: NetName=NetDS?_3 Pin=R?-2
+Added Net: Name=NetDS?_3
+Added Pin To Net: NetName=NetDS?_4 Pin=DS?-4
+Added Pin To Net: NetName=NetDS?_4 Pin=U?-33
+Added Net: Name=NetDS?_4
+Added Pin To Net: NetName=NetDS?_6 Pin=DS?-6
+Added Pin To Net: NetName=NetDS?_6 Pin=U?-31
+Added Net: Name=NetDS?_6
+Added Pin To Net: NetName=NetDS?_11 Pin=DS?-11
+Added Pin To Net: NetName=NetDS?_11 Pin=U?-30
+Added Net: Name=NetDS?_11
+Added Pin To Net: NetName=NetDS?_12 Pin=DS?-12
+Added Pin To Net: NetName=NetDS?_12 Pin=U?-29
+Added Net: Name=NetDS?_12
+Added Pin To Net: NetName=NetDS?_13 Pin=DS?-13
+Added Pin To Net: NetName=NetDS?_13 Pin=U?-28
+Added Net: Name=NetDS?_13
+Added Pin To Net: NetName=NetDS?_14 Pin=DS?-14
+Added Pin To Net: NetName=NetDS?_14 Pin=U?-27
+Added Net: Name=NetDS?_14
+Added Pin To Net: NetName=VCC Pin=DS?-2
+Added Pin To Net: NetName=VCC Pin=DS?-15
+Added Pin To Net: NetName=VCC Pin=R?-3
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
